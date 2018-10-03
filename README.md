@@ -1,2 +1,3 @@
-# PakAlex_ML
+# ML
 Machine Learning course
+Teacher - Alexander Pak
